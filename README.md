@@ -8,6 +8,6 @@ Steps to run the script:<br />
 5). Provide your moodle credentials<br />
 6). Wait for some time for the script to run<br />
 
-After the script is run successfully, your due assignments would appear in terminal window, a csv file named reminder.csv and to the google calendar. Don't mess with the csv file or it may lead to the duplicate addition of the events.
+After the script is run successfully, your due assignments would appear in terminal window, a csv file named reminder.csv and to the google calendar. Don't mess with the csv file or you may end up adding duplicate events to the calendar.
 
 NOTE: The script would add all the due assignments of the courses that you're enrolled into moddle except for the courses like Modelling and Simulation.
