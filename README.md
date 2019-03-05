@@ -1,4 +1,4 @@
-Script that adds all your due assignments to google calendar
+Script that adds all your due assignments to the google calendar and to the apple calendar(in iOS) if you allow google calendar to access calendar app in your phone
 
 Steps to run the script:<br />
 1). Download the files due_assigns_reminder.py and credentials.json to a same directory<br />
